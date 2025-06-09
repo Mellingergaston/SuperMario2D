@@ -1,6 +1,3 @@
-<h2 align="center">Comisión 7</h2>
-
-
 
 ---
 
