@@ -1,13 +1,6 @@
 <h2 align="center">Comisión 7</h2>
 
-<h3>Integrantes:</h3>
-<ul>
-  <li><strong>🍄 Nahid Lautaro</strong></li>
-  <li><strong>🕹️ Mammoni Franco</strong></li>
-  <li><strong>⭐ Totaro Tomás</strong></li>
-  <li><strong>🍄 Mellinger Gastón</strong></li>
-  <li><strong>⭐ Gutierrez Joaquín Tomás</strong></li>
-</ul>
+
 
 ---
 
