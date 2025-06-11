@@ -9,22 +9,22 @@
 
 ---
 
-Este trabajo fue desarrollado como parte de la materia <strong>Tecnológica de Programación</strong> en la <strong>Universidad Nacional del Sur</strong>. El objetivo fue diseñar y programar un videojuego estilo plataformas, basado en el universo clásico de Mario, implementado completamente en <strong>Java</strong>.
+This project was developed as part of the Technological Programming course at the Universidad Nacional del Sur. The objective was to design and program a platform-style video game, inspired by the classic Mario universe, fully implemented in Java.
 
-Para organizar el proyecto, comenzamos por la etapa de diseño utilizando <strong>diagramas de clases UML</strong>. Luego, aplicamos principios de <strong>programación orientada a objetos</strong>, <strong>principios SOLID</strong> y varios <strong>patrones de diseño</strong> para lograr una arquitectura modular, clara y mantenible.
+To organize the project, we started with the design phase using UML class diagrams. Then, we applied object-oriented programming principles, SOLID principles, and various design patterns to achieve a modular, clear, and maintainable architecture.
 
-El desarrollo se realizó en equipo, con un total de <strong>5 integrantes</strong>, combinando conocimientos de diseño y programación para alcanzar el resultado final.
+The development was carried out as a team, with a total of 5 members, combining design and programming knowledge to achieve the final result.
 
 ---
 
-<h3>🧩 Funcionalidades principales</h3>
+<h3>🧩 Main Features</h3>
 
 <ul>
-  <li>🕹️ <strong>Controles del jugador:</strong> movimiento lateral y salto, con detección de colisiones.</li>
-  <li>👾 <strong>Interacción con enemigos:</strong> se pueden esquivar o eliminar dependiendo la estrategia del jugador.</li>
-  <li>🏁 <strong>Mecánica de llegada:</strong> al alcanzar el final del nivel, Mario se desplaza automáticamente hacia el castillo.</li>
-  <li>🌄 <strong>Scroll del escenario:</strong> el fondo se mueve en función del avance del personaje.</li>
-  <li>🎵 <strong>Sonido reactivo:</strong> música de fondo y efectos que cambian según el contexto del juego.</li>
+  <li>🕹️ <strong>Player controls:</strong> lateral movement and jumping, with collision detection.</li>
+  <li>👾 <strong>Enemy interaction:</strong> enemies can be dodged or eliminated depending on the player's strategy.</li>
+  <li>🏁 <strong>Level completion mechanic:</strong> upon reaching the end of the level, Mario automatically moves toward the castle.</li>
+  <li>🌄 <strong>Scrolling background:</strong> the background moves based on the character's progression.</li>
+  <li>🎵 <strong>Reactive sound:</strong> background music and effects that change according to the game context.</li>
 </ul>
 
 ---
@@ -32,13 +32,13 @@ El desarrollo se realizó en equipo, con un total de <strong>5 integrantes</stro
 <h3>🛠️ Tecnologías y conceptos utilizados</h3>
 
 <ul>
-  <li><strong>Java:</strong> lenguaje base de implementación.</li>
-  <li><strong>AWT y Swing:</strong> para renderizado gráfico y gestión de la ventana del juego.</li>
-  <li><strong>Multithreading:</strong> manejo del hilo de ejecución para mantener el juego fluido.</li>
-  <li><strong>Diseño orientado a objetos:</strong> todas las entidades del juego están representadas como clases.</li>
-  <li><strong>Diagramas UML:</strong> planificación estructural del sistema previa al código.</li>
-  <li><strong>Principios SOLID:</strong> para lograr un diseño mantenible, flexible y escalable.</li>
-  <li><strong>Patrones de diseño:</strong> como Singleton y Strategy, aplicados para resolver problemas comunes del diseño.</li>
+  <li><strong>Java:</strong> base implementation language.</li>
+  <li><strong>AWT and Swing:</strong> for graphics rendering and window management.</li>
+  <li><strong>Multithreading:</strong> execution thread handling to keep the game smooth.</li>
+  <li><strong>Object-oriented design:</strong> all game entities are represented as classes.</li>
+  <li><strong>UML diagrams:</strong> structural planning of the system before coding.</li>
+  <li><strong>SOLID principles:</strong> to achieve a maintainable, flexible, and scalable design.</li>
+  <li><strong>Design patterns:</strong> such as Singleton and Strategy, applied to solve common design problems.</li>
 </ul>
 
 ---
